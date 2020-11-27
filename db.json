@@ -83,10 +83,24 @@
       "url_image": "images/Stella Artois 275ml.jpg"
     }
   ],
-  "orders": [
+  "sales": [
     {
       "id": 1,
-      "name": "Pedro"
+      "userId": 2,
+      "totalPrice": 46.85,
+      "deliveryAdress": "Rua Antonio de Barbosa ",
+      "deliveryNumber": "32",
+      "saleDate": "26/01",
+      "status": "Pendente"
+    },
+    {
+      "id": 2,
+      "userId": 2,
+      "totalPrice": 49.95,
+      "deliveryAdress": "Rua Antonio de Barbosa ",
+      "deliveryNumber": "32",
+      "saleDate": "26/01",
+      "status": "Pendente"
     }
-  ]
+  ],
 }
