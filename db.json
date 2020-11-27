@@ -83,7 +83,7 @@
       "url_image": "images/Stella Artois 275ml.jpg"
     }
   ],
-  sales: [
+  "sales": [
     {
       "id": 1,
       "userId": 2,
