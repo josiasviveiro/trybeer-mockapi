@@ -83,10 +83,12 @@
       "url_image": "images/Stella Artois 275ml.jpg"
     }
   ],
-  "orders": [
-    {
-      "id": 1,
-      "name": "Pedro"
-    }
-  ]
+  "orders": {
+    "1": [
+      {
+        "id": 1,
+        "name": "Pedro"
+      }
+    ]
+  }
 }
