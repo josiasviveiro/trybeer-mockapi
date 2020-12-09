@@ -83,12 +83,23 @@
       "url_image": "images/Stella Artois 275ml.jpg"
     }
   ],
-  "orders": {
-    "1": [
-      {
-        "id": 1,
-        "name": "Pedro"
-      }
-    ]
-  }
+  "orders": [
+    {
+      "id": 1,
+      "produtos": [
+        {
+          "id": 11,
+          "quantity": 3,
+          "name": "Stella Artois 275ml",
+          "total_price": 10,
+        }
+        {
+          "id": 9,
+          "quantity": 1,
+          "name": "Becks 600ml",
+          "price": 8.89,
+        },
+      ],
+    },
+  ],
 }
